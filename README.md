@@ -1,5 +1,5 @@
 # Snake_Invaders
- ##Game inspired by galaga and space invaders in pygame
+ ## Game inspired by galaga and space invaders in pygame
 
 This is my first "big" project, developed as a final grade for a python class on my university. 
 
@@ -12,7 +12,7 @@ This is the version that I presented in class.
 ![image](https://user-images.githubusercontent.com/120763485/208255588-3742cc0c-6df6-4dab-b00c-7aaaa08a3139.png)
 ![image](https://user-images.githubusercontent.com/120763485/208255631-b6c54e2b-eb3a-464c-9345-b4b004bfe389.png)
 
-#Implementations
+## Implementations
 I kept on adding more things to this project, and i'll try to remember all of them:
 * **Console**: Press the key ['] to open a console terminal in-game. There are 3 commands: godmode, nextwave, nocooldown.
   This was intended to help during the presentation, since we didn't have much time (and it really helped).
@@ -20,7 +20,7 @@ I kept on adding more things to this project, and i'll try to remember all of th
 * **Score**: The score sceen show all scores saved in a .txt arquive, thus it is saved throught sessions. 
 * **Controls**: The controls are what you'd expect: directional arrows, space to shoot/select, Enter to enter text. 
 
-#Installation
+## Installation
 1. Install python
 2. Install pygame
 ```
