@@ -14,7 +14,7 @@ This is the version that I presented in class.
 
 ## Implementations
 I kept on adding more things to this project, and i'll try to remember all of them:
-* **Console**: Press the key ['] to open a console terminal in-game. There are 3 commands: godmode, nextwave, nocooldown.
+* **Console**: Press the key **'** to open a console terminal in-game. There are 3 commands: godmode, nextwave, nocooldown.
   This was intended to help during the presentation, since we didn't have much time (and it really helped).
 * **Power-Ups**: You get these by killing blue space ships or the insects. The power-ups are chosen randomly every time you kill one of these enemies
 * **Score**: The score sceen show all scores saved in a .txt arquive, thus it is saved throught sessions. 
